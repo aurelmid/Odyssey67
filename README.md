@@ -1,6 +1,6 @@
 ![Odyssey67 Logo](https://i.imgur.com/8HvarXz.png)
 
- [![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/aureliengmichaud/Odyssey67/blob/master/LICENSE)
+ [![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/aurelmid/Odyssey67/blob/master/LICENSE)
  ![Open Source](https://img.shields.io/badge/open_source-yes-brightgreen)
 
  ### Update: The PCB is now on Rev 2.1; it has been updated due to some minor clearance issues (stabilizers overlapping diodes). The plates are on Rev 2.0; two holes have been added for better support.

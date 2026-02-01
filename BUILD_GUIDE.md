@@ -8,7 +8,7 @@
 
  Part                                                                                                                                 |  Quantity
  :----------------------------------------------------------------------------------------------------------------------------------  |  :-------:
- [Odyssey 67 PCB](https://github.com/aureliengmichaud/Odyssey67/blob/master/Gerbers.zip)                                              |  1
+ [Odyssey 67 PCB](https://github.com/aurelmid/Odyssey67/blob/master/Gerbers.zip)                                              |  1
  [1N4148 Diodes](https://candykeys.com/product/fairchild-semiconductor-diode-1n4148-pack-of-100)                                      |  67
  [Elite-C Microcontroller](https://splitkb.com/collections/keyboard-parts/products/elite-c-rev3-microcontroller)                      |  1
  [Cherry MX (or compatible) Switches](https://candykeys.com/category:switches/brand:cherry)                                           |  67
