@@ -5,16 +5,17 @@
 
  ### Update: The PCB is now on Rev 2.1; it has been updated due to some minor clearance issues (stabilizers overlapping diodes). The plates are on Rev 2.0; two holes have been added for better support.
 
- ![Odyssey67](https://i.imgur.com/c6PMh9z.jpeg)
  A simple and practical 65% mechanical keyboard powered by the Elite-C microcontroller.
+
+ ![Odyssey67](https://i.imgur.com/c6PMh9z.jpeg)
 
  ![PCB Front Render](https://i.imgur.com/4Ekcaup.png)
 
 ## Features
 
- * Simple and usable layout.
+ * Simple layout.
  * USB-C driven by the Elite-C microcontroller.
- * Awesome looking sandwich case.
+ * Cool looking sandwich case.
  * No LEDs and no underglow.
  * Not another swiss cheese PCB.
  * Fully open source.
