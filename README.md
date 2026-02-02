@@ -5,8 +5,7 @@
 
  ### Update: The PCB is now on Rev 2.1; it has been updated due to some minor clearance issues (stabilizers overlapping diodes). The plates are on Rev 2.0; two holes have been added for better support.
 
- ![Odyssey67](https://imgur.com/c6PMh9z)
-
+ ![Odyssey67](https://i.imgur.com/c6PMh9z.jpeg)
  A simple and practical 65% mechanical keyboard powered by the Elite-C microcontroller.
 
  ![PCB Front Render](https://i.imgur.com/4Ekcaup.png)
