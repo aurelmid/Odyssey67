@@ -43,7 +43,7 @@
 
 ### Files
 
- Grab the zip containing the gerbers files needed for manufacturing [here](https://github.com/aurelmid/Odyssey67/blob/master/Odyssey67-Gerbers-Rev21.zip).
+ Grab the zip containing the gerbers files needed for manufacturing [here](https://github.com/aurelmid/Odyssey67/blob/master/PCB/Odyssey67-Gerbers-Rev21.zip).
 
 ## Plates
 
