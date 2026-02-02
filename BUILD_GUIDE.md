@@ -6,20 +6,20 @@
 
 ## Parts list
 
- Part                                                                                                                                 |  Quantity
- :----------------------------------------------------------------------------------------------------------------------------------  |  :-------:
- Odyssey 67 PCB                                              |  1
- [1N4148 Diodes](https://candykeys.com/product/fairchild-semiconductor-diode-1n4148-pack-of-100)                                      |  67
- [Elite-C Microcontroller](https://splitkb.com/collections/keyboard-parts/products/elite-c-rev3-microcontroller)                      |  1
- [Cherry MX (or compatible) Switches](https://candykeys.com/category:switches/brand:cherry)                                           |  67
- [Cherry Stabilizers 2u](https://candykeys.com/product/original-cherry-2u-pcb-stabilizer)                                             |  3
- [Cherry Stabilizer 6.25u](https://candykeys.com/product/official-cherry-mx-stabiliser-6-25u)                                         |  1
- [Odyssey 67 Switch Plate](https://github.com/aureliengmichaud/Odyssey67/tree/master/Plates)                                          |  1
- [Odyssey 67 Bottom Plate](https://github.com/aureliengmichaud/Odyssey67/tree/master/Plates)                                          |  1
- [M3x8 Screws](https://www.ebay.fr/sch/i.html?_odkw=m3x8+screws&_osacat=0&_from=R40&_trksid=m570.l1313&_nkw=m3+screws&_sacat=0)       |  20
- [M3x14 Standoffs](https://www.ebay.fr/sch/i.html?_odkw=m3+screws&_osacat=0&_from=R40&_trksid=m570.l1313&_nkw=m3+standoffs&_sacat=0)  |  10
- [USB-C Cable](https://candykeys.com/product/black-nylon-usb-c-cable-1m)                                                              |  1
- Keycaps                           |  67
+ Part                                              |  Quantity
+ :-----------------------------------------------  |  :-------:
+ Odyssey 67 PCB                                    |  1
+ 1N4148 THT Diodes                                 |  67
+ Elite-C Microcontroller                           |  1
+ Cherry MX (or compatible) Switches                |  67
+ Cherry Stabilizers 2u                             |  3
+ Cherry Stabilizer 6.25u                           |  1
+ Odyssey 67 Switch Plate                           |  1
+ Odyssey 67 Bottom Plate                           |  1
+ M3x8 Screws                                       |  20
+ M3x14 Standoffs                                   |  10
+ USB-C Cable                                       |  1
+ Keycaps                                           |  67
 
 ## Tools
 
@@ -29,7 +29,6 @@
 
 ### Notes
 
- * Being located in the EU, I've tried my best to list parts from EU sellers for my fellow europeans.
  * The Odyssey67 uses 3 2u stabilizers and 1 6.25u stabilizer. The stabilizers are usually sold as packs of 4 2U stabilizers and 1 6.25U stabilizer.
  * **Not necessary but recommended** is lubrication for the stabilizers. Good dieletric grease with PTFE such as Super Lube is an industry standard. You can find some [here](https://candykeys.com/category:lubrication).
 
@@ -135,4 +134,4 @@ In this section, we'll review the parts used to build the keyboard. I advise you
 
 ###### Carefully place the switch plate on the bottom plate. Match the holes and screw everything. All done.
 
-**Congratulations, you did it! You're the proud owner of a cool looking mechanical keyboard. Now choose your favorite set of keycaps and off to new adventures.**
+**Congratulations, you did it!**
