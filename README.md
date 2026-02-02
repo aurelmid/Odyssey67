@@ -5,6 +5,8 @@
 
  ### Update: The PCB is now on Rev 2.1; it has been updated due to some minor clearance issues (stabilizers overlapping diodes). The plates are on Rev 2.0; two holes have been added for better support.
 
+ ![Odyssey67](https://imgur.com/c6PMh9z)
+
  A simple and practical 65% mechanical keyboard powered by the Elite-C microcontroller.
 
  ![PCB Front Render](https://i.imgur.com/4Ekcaup.png)
@@ -44,16 +46,6 @@
  Grab the zip containing the gerbers files needed for manufacturing [here](https://github.com/aurelmid/Odyssey67/blob/master/Odyssey67-Gerbers-Rev21.zip). Simply upload the zip to the PCB manufacturer of your choice and off you go.
 
 ## Plates
-
-### Switch Plate
-
- ![Switch Plate](https://i.imgur.com/L6NuyFb.png)
-
-### Bottom Plate
-
- ![Bottom Plate](https://i.imgur.com/laIwWEt.png)
-
-### Files
 
  Grab the files needed to get the plates made [here](https://github.com/aurelmid/Odyssey67/tree/master/Plates). DXF and SVG files are included, depending on the manufacturer's needs.
 
